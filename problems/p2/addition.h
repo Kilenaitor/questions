@@ -1,11 +1,11 @@
-void methodFor()
+void methodFor(int n)
 {
 }
 
-void methodWhile()
+void methodWhile(int n)
 {
 }
 
-void methodRecurse()
+void methodRecurse(int n)
 {
 }
