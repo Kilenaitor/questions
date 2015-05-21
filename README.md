@@ -6,8 +6,8 @@ change the included method name or the parameters passed to it.
 ## Instructions
 Fork this repository.
 
-Submit a pull request on the `people` directory of just a file of your GitHub username (just a simple `touch <filename>`).
-This will be used for testing your code to see if your solution works. :)
+Submit a pull request on the `people` directory of just a file with the name of your GitHub username (just a simple `touch <username>`).
+This will be used for testing your code to see if your solution works.
 
 If your code doesn't work on the first try, don't worry! Not like this is a grade or anything.
 ## Grading
