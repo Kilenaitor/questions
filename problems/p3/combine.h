@@ -1,5 +1,7 @@
+#include <vector>
+
 template <typename T>
-vector<T> combine(vector<T> &A, vector<T> &B)
+std::vector<T> combine(std::vector<T> &A, std::vector<T> &B)
 {
     /* code goes here */
 }
