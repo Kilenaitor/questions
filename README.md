@@ -1,7 +1,7 @@
 # Programming Sample Questions
 ## Document Structure
 Each directory has a problem description and an empty file for you to fill in your code.
-You must use this file and keep the name as-as. You may add additional/helper methods so long as you do not
+You must use this file and keep the name as-is. You may add additional/helper methods so long as you do not
 change the included method name or the parameters passed to it.
 ## Instructions
 Fork this repository.
