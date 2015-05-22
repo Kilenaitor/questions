@@ -1,6 +1,6 @@
 #include <string>
 
-bool isRotation(std::string &s, std::string &r)
+bool isRotation(const std::string &s, const std::string &r)
 {
 	/* code goes here */
 	return false;
