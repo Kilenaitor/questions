@@ -1,7 +1,7 @@
 template <typename T>
-static std::vector<T> subset(std::vector<T> &s)
+static std::vector<std::vector<T> > subset(std::vector<T> &s)
 {
 	/* code goes here */
-	std::vector<T> ans = {};
+	std::vector<std::vector<T> > ans = {};
 	return ans;
 }
