@@ -1,3 +1,4 @@
+#include <vector>
 template <typename T>
 static std::vector<std::vector<T> > subset(std::vector<T> &s)
 {
