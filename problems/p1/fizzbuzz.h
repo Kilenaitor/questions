@@ -1,4 +1,4 @@
-void fizzbuzz()
+static void fizzbuzz()
 {
 	
 }
