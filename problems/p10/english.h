@@ -1,5 +1,5 @@
 #include <string>
-std::string english(int n)
+static std::string english(int n)
 {
 	(void)n;
 	std::string ans = "";
