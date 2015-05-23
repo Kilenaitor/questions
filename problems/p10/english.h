@@ -2,6 +2,7 @@
 std::string english(int n)
 {
 	(void)n;
+	std::string ans = "";
 	/* code goes here */
-	return "";
+	return ans;
 }
