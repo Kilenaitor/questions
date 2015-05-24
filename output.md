@@ -332,7 +332,7 @@ Case 7: Fail
 ####Problem 2
 Testing for loop for n = 10 : Success  
 Testing for loop for n = 127 : Success  
-####Infinite loop detected
+Infinite loop detected
 
 ####Test 3 failed to compile
 
