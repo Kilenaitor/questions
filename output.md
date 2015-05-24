@@ -1,4 +1,4 @@
-##Results for 'csimo005': 
+##Results for csimo005: 
 
 ####Problem 1
 Test FizzBuzz: Success  
@@ -98,25 +98,16 @@ Case 6: Fail
 Case 7: Fail  
 Case 8: Fail  
 
-##Results for 'Xenocidel': 
+##Results for Xenocidel: 
 
-####Problem 1
-Test FizzBuzz: Fail  
+Test 1 failed to compile
 
 ####Problem 2
-Testing for loop for n = 10 : Fail  
-Testing for loop for n = 127 : Fail  
-Testing while loop for n = 10 : Fail  
-Testing while loop for n = 127 : Fail  
-Testing recursion for n = 10 : Fail  
-Testing recursion for n = 127 : Fail  
+Testing for loop for n = 10 : Success  
+Testing for loop for n = 127 : Success  
+Infinite loop detected
 
-####Problem 3
-Case 1: Fail  
-Case 2: Fail  
-Case 3: Fail  
-Case 4: Fail  
-Case 5: Fail  
+Test 3 failed to compile
 
 ####Problem 4
 Case 1: Fail  
