@@ -218,8 +218,7 @@ Case 7: Fail
 
 ##Results for nhoac001: 
 
-####Problem 1
-Test FizzBuzz: Fail  
+####Test 1 failed to compile
 
 ####Problem 2
 Testing for loop for n = 10 : Fail  
