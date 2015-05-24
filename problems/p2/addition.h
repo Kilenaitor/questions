@@ -1,14 +1,17 @@
-int methodFor(int n)
+static int methodFor(int n)
 {
+	(void)n;
 	return 0;
 }
 
-int methodWhile(int n)
+static int methodWhile(int n)
 {
+	(void)n;
 	return 0;
 }
 
-int methodRecurse(int n)
+static int methodRecurse(int n)
 {
+	(void)n;
 	return 0;
 }
