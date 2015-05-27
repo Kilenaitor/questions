@@ -107,10 +107,9 @@ Case 5: Fail
 Case 6: Fail  
 Case 7: Fail  
 
-##Results for kilenaitor: 
+##Results for nhoac001: 
 
-####Problem 1
-Test FizzBuzz: Fail  
+####Test 1 failed to compile
 
 ####Problem 2
 Testing for loop for n = 10 : Fail  
@@ -216,9 +215,10 @@ Case 5: Fail
 Case 6: Fail  
 Case 7: Fail  
 
-##Results for nhoac001: 
+##Results for smosh002: 
 
-####Test 1 failed to compile
+####Problem 1
+Test FizzBuzz: Fail  
 
 ####Problem 2
 Testing for loop for n = 10 : Fail  
