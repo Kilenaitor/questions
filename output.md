@@ -1,15 +1,8 @@
 ##Results for csant012: 
 
-####Problem 1
-Test FizzBuzz: Fail  
+####Test 1 failed to compile
 
-####Problem 2
-Testing for loop for n = 10 : Success  
-Testing for loop for n = 127 : Success  
-Testing while loop for n = 10 : Fail  
-Testing while loop for n = 127 : Fail  
-Testing recursion for n = 10 : Fail  
-Testing recursion for n = 127 : Fail  
+####Test 2 failed to compile
 
 ####Problem 3
 Case 1: Fail  
